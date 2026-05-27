@@ -1,0 +1,7 @@
+Model,Validation RMSE
+SVR/ElasticNet blend (SVR weight=0.85),21.94876615949242
+CV-selected RBF-SVR,22.206526900091276
+Tuned neural network,30.55568282628545
+Untuned neural network,34.69426070048623
+Random forest,49.434712864326016
+Ridge regression,86.85851553390684
